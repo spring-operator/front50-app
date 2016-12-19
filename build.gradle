@@ -3,7 +3,7 @@ buildscript {
 		springBootVersion = '1.2.8.RELEASE'
 		springVersion = '4.1.9.RELEASE'
 		front50Version = '1.51.0'
-		front50AppVersion = '1.0.0.M1'
+		front50AppVersion = '1.0.0.BUILD-SNAPSHOT'
 	}
 	repositories {
 		mavenCentral()
